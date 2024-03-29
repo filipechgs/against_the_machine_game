@@ -18,3 +18,4 @@ Os personágens jogáveis tem nomes de pessoas que lutaram por essas causas na v
     - Impedir que se matem antes que  
 - Libertar do capitalismo
     - Pessoas capitalistas viraram montros que devoram tudo e acorrentam pessoas
+- contra popup e sapans
